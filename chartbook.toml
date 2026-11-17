@@ -1,0 +1,7 @@
+[project]
+name = "Aggregate Earnings Yield"
+
+[dataframes.aggregate_earnings_yield]
+path = "aggregate_earnings_yield.csv"
+date_col = "date"
+docs = "Monthly aggregate earnings yield of U.S. stocks, computed from WRDS data."

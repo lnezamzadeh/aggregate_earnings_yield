@@ -1,0 +1,10 @@
+.env
+.env.*
+.pgpass
+__pycache__/
+.venv/
+_data/
+_output/
+*.parquet
+*.csv
+!aggregate_earnings_yield.csv
