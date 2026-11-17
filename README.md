@@ -6,9 +6,9 @@ This repository calculates the monthly aggregate earnings yield of U.S. stocks u
 
 Aggregate earnings yield is calculated as:
 
-\[
+$$
 \text{Aggregate Earnings Yield} = \frac{\text{Total TTM Earnings}}{\text{Total Market Capitalization}}
-\]
+$$
 
 - **CRSP:** Monthly stock prices and shares outstanding, used to calculate market capitalization.
 - **Compustat:** Quarterly net income, used to calculate trailing twelve-month (TTM) earnings.
